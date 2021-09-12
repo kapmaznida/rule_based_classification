@@ -22,7 +22,7 @@ _Dataset_
 persona.csv 
 
  _Variables_ 
- _PRICE_: müşterinin harcama tutarı
+ _PRICE_: customer's spending amount
                         _SOURCE_: device to which the customer is connected
                         _SEX_: customer's gender
                         _COUNTRY_: customer's country
